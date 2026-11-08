@@ -1,6 +1,6 @@
-<h1 align="center">👋 Xin chào, mình là Nguyễn Đức Tài</h1>
+<h1 align="center">👋 Hello, I’m Duc Tai.</h1>
 
-<p align="center">Mình đang xây dựng các dự án cá nhân và công cụ học tập hữu ích.</p>
+<p align="center">I am building personal projects and useful learning tools..</p>
 
 <p align="center">
   <a href="https://taylor447.github.io/epu-ielts-speaking/"><img src="https://img.shields.io/badge/🌐_TRẢI_NGHIỆM-EPU_IELTS_SPEAKING-2563eb?style=for-the-badge" alt="Trải nghiệm EPU IELTS Speaking"></a>
@@ -9,7 +9,7 @@
 
 ---
 
-## 🌟 Dự án nổi bật
+## 🌟 Featured Projects
 
 ### 🎙️ EPU IELTS Speaking
 
