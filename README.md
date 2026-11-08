@@ -13,7 +13,7 @@
 
 ### 🎙️ EPU IELTS Speaking
 
-Ứng dụng luyện IELTS Speaking theo chủ đề.
+An app for practicing IELTS Speaking by topic.
 
 - 🌐 [Mở ứng dụng](https://taylor447.github.io/epu-ielts-speaking/)
 - 💻 [Xem mã nguồn](https://github.com/Taylor447/epu-ielts-speaking)
