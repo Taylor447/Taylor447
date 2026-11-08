@@ -18,7 +18,7 @@ An app for practicing IELTS Speaking by topic.
 - 🌐 [Mở ứng dụng](https://taylor447.github.io/epu-ielts-speaking/)
 - 💻 [Xem mã nguồn](https://github.com/Taylor447/epu-ielts-speaking)
 
-## 🛠️ Công nghệ
+## 🛠️ Technology
 
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
