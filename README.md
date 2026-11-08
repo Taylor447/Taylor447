@@ -30,12 +30,13 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Taylor447&show_icons=true&theme=tokyonight&hide_border=true" alt="Thống kê GitHub của Taylor447">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Taylor447&layout=compact&theme=tokyonight&hide_border=true" alt="Ngôn ngữ trên GitHub của Taylor447">
+  <img src="https://img.shields.io/github/followers/Taylor447?label=Followers&style=for-the-badge" alt="Người theo dõi GitHub">
+  <img src="https://img.shields.io/github/stars/Taylor447/epu-ielts-speaking?label=Project%20Stars&style=for-the-badge" alt="Sao của dự án">
+  <img src="https://img.shields.io/github/languages/top/Taylor447/epu-ielts-speaking?label=Top%20Language&style=for-the-badge" alt="Ngôn ngữ chính của dự án">
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 Dự án đã phát hành
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Taylor447&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6" alt="Thành tích GitHub của Taylor447">
+  <a href="https://taylor447.github.io/epu-ielts-speaking/"><img src="https://img.shields.io/badge/GitHub_Pages-EPU_IELTS_Speaking-2ea44f?style=for-the-badge&logo=githubpages&logoColor=white" alt="EPU IELTS Speaking đã phát hành trên GitHub Pages"></a>
 </p>
