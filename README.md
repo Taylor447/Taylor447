@@ -3,8 +3,8 @@
 <p align="center">I am building personal projects and useful learning tools..</p>
 
 <p align="center">
-  <a href="https://taylor447.github.io/epu-ielts-speaking/"><img src="https://img.shields.io/badge/🌐_TRẢI_NGHIỆM-EPU_IELTS_SPEAKING-2563eb?style=for-the-badge" alt="Trải nghiệm EPU IELTS Speaking"></a>
-  <a href="https://github.com/Taylor447/epu-ielts-speaking"><img src="https://img.shields.io/badge/📦_MÃ_NGUỒN-GITHUB-181717?style=for-the-badge&logo=github" alt="Mã nguồn trên GitHub"></a>
+  <a href="https://taylor447.github.io/epu-ielts-speaking/"><img src="https://img.shields.io/badge/🌐_TRẢI_NGHIỆM-TaylorFlow-2563eb?style=for-the-badge" alt="Trải nghiệm TaylorFlow"></a>
+  <a href="https://github.com/Taylor447/TaylorFlow"><img src="https://img.shields.io/badge/📦_MÃ_NGUỒN-GITHUB-181717?style=for-the-badge&logo=github" alt="Mã nguồn trên GitHub"></a>
 </p>
 
 ---
